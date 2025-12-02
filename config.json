@@ -9,5 +9,7 @@
   "theme": "cards",
   "css": "./custom.css",
   "footer": "Copyright (c) 2025 nu100",
-  "usage-stats": false
+  "usage-stats": false,
+  "thumb-size": 250, 
+  "large-size": 1500
 }
